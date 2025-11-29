@@ -1,6 +1,6 @@
-const unusedVar = "test";
-console.log("Hello world")
+const message = 'Hello world';
+console.log(message);
 function myFunction() {
-  let x = 5
-  return x
+  let x = 5;
+  return x;
 }
